@@ -4,6 +4,9 @@
 # the text entered in MORPH_STR, etc.  If you want to modify ammo message boxes
 # or otherwise need help, feel free to message us on discord.
 
+# Thank you to PJboy's disassembly for the format of the message box data
+# http://patrickjohnston.org/bank/85
+
 import sys
 
 FUNCTION_PTR_TABLE = """
